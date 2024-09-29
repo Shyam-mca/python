@@ -20,7 +20,6 @@ def detect_emotion(text):
     else:
         return 'Neutral'
 df['emotion'] = df['email_text'].apply(detect_emotion)
-# Define spam classification function
 def classify_spam(text):
     if 'buy' in text or 'free' in text or 'click' in text or 'warning' in text:
         return 1
