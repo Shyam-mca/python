@@ -1,0 +1,6 @@
+id,email_text,spam
+1,"""Hello, I'm reaching out to discuss potential business opportunities.""",0
+2,"""Warning: Your email account will be suspended unless you verify your identity.""",1
+3,"""Thanks for your purchase! Your receipt is attached.""",0
+4,"""Click here to claim your free gift card!""",1
+5,"""Hi, I'd like to schedule a meeting to discuss our project.""",0
